@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+*.vsidx
+*.ipch
+/.vs/Number Guessing Game App/v17
+/Number Guessing Game App/Number G.1705d70b/x64/Debug/Number G.1705d70b.tlog
+/Number Guessing Game App/Number G.1705d70b/x64/Debug
+/Number Guessing Game App/x64/Debug
